@@ -1,3 +1,80 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            1e:5d:2c:84:a3:7e:26:da:4f:74:61:7d:92:2e:f3:4f
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=US, ST=Nevada, L=Carson City, O=TYS LLC, OU=Host, CN=TYSServer/emailAddress=host@tys.sh
+        Validity
+            Not Before: Jun 21 23:28:25 2026 GMT
+            Not After : Jun 18 23:28:25 2036 GMT
+        Subject: C=US, ST=Nevada, L=Carson City, O=TYS LLC, OU=Admin, CN=TYS Server OCSP Responder/emailAddress=host@tys.sh
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e4:bd:ba:4d:f4:e8:e6:83:80:9f:8d:be:2c:67:
+                    3f:7a:bb:ff:99:dc:5c:ab:23:15:d7:e4:4f:8c:c3:
+                    8e:c5:0f:36:21:92:fd:9f:b0:af:26:4b:df:33:47:
+                    0f:49:54:06:c9:ee:3e:39:70:f7:fb:60:a0:df:0d:
+                    23:f0:07:13:c4:d2:ed:e3:9d:e2:12:6c:61:6b:90:
+                    f2:18:5c:fb:50:9d:fc:20:44:22:08:36:c8:78:ce:
+                    3e:71:d0:d0:c2:a0:c9:46:3d:47:09:88:3b:7b:8c:
+                    0a:ea:60:1f:fa:7e:da:9c:99:a0:db:81:9f:fd:bf:
+                    3f:11:34:82:44:e6:d5:5f:79:6c:6e:de:c5:8b:87:
+                    13:f7:d3:7a:37:c0:58:f3:7b:dc:ff:2f:83:4a:d4:
+                    ee:8a:49:e5:6a:51:fc:ea:e2:e9:1c:e6:34:bd:b6:
+                    10:b2:68:c2:bc:c4:cf:93:0c:3c:46:ae:b4:b8:51:
+                    b0:67:4e:cf:38:8d:5d:59:5e:dc:35:8d:0b:45:cd:
+                    7a:0e:b6:54:2e:2a:fd:31:f8:11:c1:e1:88:47:fd:
+                    95:73:27:3c:12:59:d6:8e:c9:65:fc:e8:6a:d8:77:
+                    9f:e8:24:fb:fb:f3:d8:74:8f:2a:4b:f2:35:2e:4c:
+                    23:56:96:30:77:8b:2d:ce:2a:97:c9:c8:56:b2:a0:
+                    05:21
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                78:17:12:0A:EA:46:30:11:D9:7D:81:AA:A7:D9:03:68:28:9A:55:9B
+            X509v3 Authority Key Identifier: 
+                6A:13:66:54:B4:6C:CC:FC:C8:AA:05:05:E4:A7:7A:9D:FB:5E:1D:97
+            X509v3 Extended Key Usage: critical
+                OCSP Signing
+            X509v3 Key Usage: critical
+                Digital Signature
+            OCSP No Check: 
+
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:66:02:31:00:84:eb:9f:fe:89:2d:63:02:7d:6e:8a:25:90:
+        c4:83:26:92:70:7c:b4:44:79:e9:a2:45:3e:33:c7:38:3d:c6:
+        68:d2:9e:6c:57:31:a2:68:f4:35:4d:53:8f:0a:45:4d:1c:02:
+        31:00:96:b0:bc:96:54:cf:26:ee:b8:e7:f4:8f:98:78:45:42:
+        57:0d:0f:47:ce:bf:bf:a3:d5:91:b4:6d:31:33:82:3f:ee:ec:
+        ba:1f:08:5d:61:a3:9a:f1:4a:80:4b:2a:a3:17
+-----BEGIN CERTIFICATE-----
+MIIDkjCCAxegAwIBAgIQHl0shKN+JtpPdGF9ki7zTzAKBggqhkjOPQQDAjCBhTEL
+MAkGA1UEBhMCVVMxDzANBgNVBAgMBk5ldmFkYTEUMBIGA1UEBwwLQ2Fyc29uIENp
+dHkxEDAOBgNVBAoMB1RZUyBMTEMxDTALBgNVBAsMBEhvc3QxEjAQBgNVBAMMCVRZ
+U1NlcnZlcjEaMBgGCSqGSIb3DQEJARYLaG9zdEB0eXMuc2gwHhcNMjYwNjIxMjMy
+ODI1WhcNMzYwNjE4MjMyODI1WjCBljELMAkGA1UEBhMCVVMxDzANBgNVBAgMBk5l
+dmFkYTEUMBIGA1UEBwwLQ2Fyc29uIENpdHkxEDAOBgNVBAoMB1RZUyBMTEMxDjAM
+BgNVBAsMBUFkbWluMSIwIAYDVQQDDBlUWVMgU2VydmVyIE9DU1AgUmVzcG9uZGVy
+MRowGAYJKoZIhvcNAQkBFgtob3N0QHR5cy5zaDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAOS9uk306OaDgJ+NvixnP3q7/5ncXKsjFdfkT4zDjsUPNiGS
+/Z+wryZL3zNHD0lUBsnuPjlw9/tgoN8NI/AHE8TS7eOd4hJsYWuQ8hhc+1Cd/CBE
+Igg2yHjOPnHQ0MKgyUY9RwmIO3uMCupgH/p+2pyZoNuBn/2/PxE0gkTm1V95bG7e
+xYuHE/fTejfAWPN73P8vg0rU7opJ5WpR/Ori6RzmNL22ELJowrzEz5MMPEautLhR
+sGdOzziNXVle3DWNC0XNeg62VC4q/TH4EcHhiEf9lXMnPBJZ1o7JZfzoath3n+gk
++/vz2HSPKkvyNS5MI1aWMHeLLc4ql8nIVrKgBSECAwEAAaOBijCBhzAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBR4FxIK6kYwEdl9gaqn2QNoKJpVmzAfBgNVHSMEGDAW
+gBRqE2ZUtGzM/MiqBQXkp3qd+14dlzAWBgNVHSUBAf8EDDAKBggrBgEFBQcDCTAO
+BgNVHQ8BAf8EBAMCB4AwDwYJKwYBBQUHMAEFBAIFADAKBggqhkjOPQQDAgNpADBm
+AjEAhOuf/oktYwJ9boolkMSDJpJwfLREeemiRT4zxzg9xmjSnmxXMaJo9DVNU48K
+RU0cAjEAlrC8llTPJu645/SPmHhFQlcND0fOv7+j1ZG0bTEzgj/u7LofCF1ho5rx
+SoBLKqMX
+-----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIGTjCCBDagAwIBAgIRALMM3fCtLt7VzbAuGLQzZJgwDQYJKoZIhvcNAQELBQAw
 gYMxCzAJBgNVBAYTAlVTMQ8wDQYDVQQIDAZOZXZhZGExFDASBgNVBAcMC0NhcnNv
